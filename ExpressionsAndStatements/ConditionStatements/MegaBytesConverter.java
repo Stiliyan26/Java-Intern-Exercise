@@ -1,4 +1,4 @@
-package ExpressionsAndStatements;
+package ExpressionsAndStatements.ConditionStatements;
 public class MegaBytesConverter {
     public static void main(String[] args) {
         printMegaBytesAndKiloBytes(0);

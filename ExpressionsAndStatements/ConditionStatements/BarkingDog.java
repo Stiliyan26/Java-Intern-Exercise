@@ -1,7 +1,7 @@
-package ExpressionsAndStatements;
+package ExpressionsAndStatements.ConditionStatements;
 public class BarkingDog {
     public static void main(String[] args) {
-        shouldWakeUp (true, 1);
+        boolean isWakedUp = shouldWakeUp(true, 1);
     }
     public static boolean shouldWakeUp(boolean barking, int hourOfDay){
         if (hourOfDay < 0 || 23 < hourOfDay){

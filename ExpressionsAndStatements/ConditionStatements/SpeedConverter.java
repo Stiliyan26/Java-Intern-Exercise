@@ -1,4 +1,4 @@
-package ExpressionsAndStatements;
+package ExpressionsAndStatements.ConditionStatements;
 public class SpeedConverter {
     public static void main(String[] args) {
         long miles = toMilesPerHour(10.25);

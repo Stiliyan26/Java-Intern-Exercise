@@ -1,4 +1,4 @@
-package ExpressionsAndStatements;
+package ExpressionsAndStatements.ConditionStatements;
 public class PositiveNegativeZero {
     public static void main(String[] args) {
         checkNumber(-1);
