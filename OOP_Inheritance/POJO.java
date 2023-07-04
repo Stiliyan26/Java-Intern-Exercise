@@ -17,5 +17,20 @@ public class POJO {
 
             System.out.println(student);
         }
+
+        Student pojoStudent = new Student("1dsad", "Ann",
+                "05/11/1985", "Java Masterclass");
+
+        LPAStudent recordStudent = new LPAStudent("asdac", "Bill",
+                "05/12/2002", "Java Masterclass");
+
+        System.out.println(pojoStudent);
+        System.out.println(recordStudent);
+
+        pojoStudent.setClassList(pojoStudent.getClassList() + ", Java OCP Exam 829");
+//        recordStudent.classList(recordStudent.classList() + ", Java OCP Exam 829");
+
+        System.out.println(pojoStudent.getName() + " is taking " + pojoStudent.getClassList());
+        System.out.println(recordStudent.name() + " is taking " + recordStudent.classList());
     }
 }
