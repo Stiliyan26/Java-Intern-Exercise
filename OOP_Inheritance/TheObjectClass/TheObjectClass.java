@@ -41,6 +41,6 @@ class PrimarySchoolStudent extends Student {
 
     @Override
     public String toString() {
-        return parentName + "'s kidm " + super.toString();
+        return parentName + "'s kid " + super.toString();
     }
 }
