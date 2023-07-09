@@ -5,7 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/OOP_Polymorphism/CompositionExercise/CompositionExercise.iml" filepath="$PROJECT_DIR$/OOP_Polymorphism/CompositionExercise/CompositionExercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP_Polymorphism/EncapsulationExercise/EncapsulationExercise.iml" filepath="$PROJECT_DIR$/OOP_Polymorphism/EncapsulationExercise/EncapsulationExercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-Intern-Exercise.iml" filepath="$PROJECT_DIR$/.idea/Java-Intern-Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_Polymorphism/OOPMasterChallenge/OOPMasterChallenge.iml" filepath="$PROJECT_DIR$/OOP_Polymorphism/OOPMasterChallenge/OOPMasterChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP_Polymorphism/OOP_Polymorphism.iml" filepath="$PROJECT_DIR$/OOP_Polymorphism/OOP_Polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_Polymorphism/PolymorphismExercise/PolymorphismExercise.iml" filepath="$PROJECT_DIR$/OOP_Polymorphism/PolymorphismExercise/PolymorphismExercise.iml" />
     </modules>
   </component>
 </project>

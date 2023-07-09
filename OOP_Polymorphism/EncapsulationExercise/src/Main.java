@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        Printer pritner = new Printer(50, true);
+        System.out.println("inital pages count = " + pritner.getPagesPrinted());
     }
 }
