@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP_Polymorphism/CompositionExercise/CompositionExercise.iml" filepath="$PROJECT_DIR$/OOP_Polymorphism/CompositionExercise/CompositionExercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP_Polymorphism/EncapsulationExercise/EncapsulationExercise.iml" filepath="$PROJECT_DIR$/OOP_Polymorphism/EncapsulationExercise/EncapsulationExercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-Intern-Exercise.iml" filepath="$PROJECT_DIR$/.idea/Java-Intern-Exercise.iml" />
