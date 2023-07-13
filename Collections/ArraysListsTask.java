@@ -23,13 +23,19 @@ public class ArraysListsTask {
         }
     }
     public static void printMenuOptions(){
-        System.out.println("Available actions: ");
+        String textBox = """
+                Available actions: 
+                
+                1 to add item(s) to list (comma delimited list)
+                
+                2 to remove any items (comma delimited list)
+                
+                3 to exit)
+                
+                Enter a number for which action you want to do:""";
 
-        System.out.println("1 to add item(s) to list (comma delimited list)");
-        System.out.println("2 to remove any items (comma delimited list)");
-        System.out.println("3 to exit)");
 
-        System.out.print("Enter a number for which action you want to do: ");
+        System.out.print(textBox + " ");
     }
     public static Scanner getScanner(){
          return new Scanner(System.in);
