@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/OOP_Polymorphism/CompositionExercise/CompositionExercise.iml" filepath="$PROJECT_DIR$/OOP_Polymorphism/CompositionExercise/CompositionExercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP_Polymorphism/EncapsulationExercise/EncapsulationExercise.iml" filepath="$PROJECT_DIR$/OOP_Polymorphism/EncapsulationExercise/EncapsulationExercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaCollections/FinalCollectionsChallenge/FinalCollectionsChallenge.iml" filepath="$PROJECT_DIR$/JavaCollections/FinalCollectionsChallenge/FinalCollectionsChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FinalImmutableConstructors/FinalImmutableConstructors.iml" filepath="$PROJECT_DIR$/FinalImmutableConstructors/FinalImmutableConstructors.iml" />
       <module fileurl="file://$PROJECT_DIR$/Generic/Generic.iml" filepath="$PROJECT_DIR$/Generic/Generic.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-Intern-Exercise.iml" filepath="$PROJECT_DIR$/.idea/Java-Intern-Exercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaCollections/JavaCollections.iml" filepath="$PROJECT_DIR$/JavaCollections/JavaCollections.iml" />
@@ -16,6 +17,7 @@
       <module fileurl="file://$PROJECT_DIR$/OOP_Polymorphism/OOP_Polymorphism.iml" filepath="$PROJECT_DIR$/OOP_Polymorphism/OOP_Polymorphism.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP_Polymorphism/PolymorphismExercise/PolymorphismExercise.iml" filepath="$PROJECT_DIR$/OOP_Polymorphism/PolymorphismExercise/PolymorphismExercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaCollections/SetsChallenge/SetsChallenge.iml" filepath="$PROJECT_DIR$/JavaCollections/SetsChallenge/SetsChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Streams/Streams.iml" filepath="$PROJECT_DIR$/Streams/Streams.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaCollections/TreeSetChallenge/TreeSetChallenge.iml" filepath="$PROJECT_DIR$/JavaCollections/TreeSetChallenge/TreeSetChallenge.iml" />
     </modules>
   </component>
