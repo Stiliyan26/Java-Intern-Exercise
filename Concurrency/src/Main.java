@@ -1,6 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-        final BankAccount account = new BankAccount("12345-678", 1000.00);
+        final BankAccount account =
+                new BankAccount("12345-678", 1000.00);
 
 //        Thread trThread1 = new Thread(){
 //            public void run() {
